@@ -37,7 +37,7 @@ class _HomeState extends State<Home> {
 
   @override
   Widget build(BuildContext context) {
-    print("Build .");
+    print("Build chamado");
 
     return Scaffold(
       appBar: AppBar(
